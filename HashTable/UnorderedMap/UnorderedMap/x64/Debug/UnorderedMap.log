@@ -1,0 +1,5 @@
+﻿  HashTable.cpp
+C:\Users\User\source\repos\Cracking\HashTable\UnorderedMap\UnorderedMap\HashTable.cpp(120,21): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  UnorderedMap.vcxproj -> C:\Users\User\source\repos\Cracking\HashTable\UnorderedMap\x64\Debug\UnorderedMap.exe
