@@ -1,0 +1,10 @@
+﻿  String.cpp
+C:\Users\User\source\repos\String\String\String\String.cpp(21,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\String\String\String\String.cpp(87,26): warning C4305: '=': truncation from 'int' to 'char'
+C:\Users\User\source\repos\String\String\String\String.cpp(87,22): warning C4309: '=': truncation of constant value
+C:\Users\User\source\repos\String\String\String\String.cpp(104,27): warning C4305: '=': truncation from 'int' to 'char'
+C:\Users\User\source\repos\String\String\String\String.cpp(104,23): warning C4309: '=': truncation of constant value
+  main.cpp
+  Generating Code...
+C:\Users\User\source\repos\String\String\String\String.cpp(110): warning C4715: 'String::operator+=': not all control paths return a value
+  String.vcxproj -> C:\Users\User\source\repos\String\String\x64\Debug\String.exe
