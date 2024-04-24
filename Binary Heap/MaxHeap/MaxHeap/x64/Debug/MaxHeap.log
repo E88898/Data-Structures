@@ -1,0 +1,6 @@
+﻿  Heap.cpp
+C:\Users\User\source\repos\Binary Heap\MaxHeap\MaxHeap\Heap.cpp(11,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\Binary Heap\MaxHeap\MaxHeap\Heap.cpp(26,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  MaxHeap.vcxproj -> C:\Users\User\source\repos\Binary Heap\MaxHeap\x64\Debug\MaxHeap.exe
